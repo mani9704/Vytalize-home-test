@@ -35,7 +35,7 @@ Vendor (in-VPC / peered / VPN)
 
 ## Run
 ```bash
-cd iac/envs/dev
+cd terraform-iac-code/envs/dev
 terraform init
 terraform plan
 terraform apply -auto-approve
